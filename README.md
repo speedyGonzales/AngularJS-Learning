@@ -671,3 +671,8 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
 * [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold)
+
+
+
+
+[my-link1](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
